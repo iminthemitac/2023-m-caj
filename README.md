@@ -74,4 +74,3 @@ helm install caj-apps ./caj-apps
 ```bash=
 helm uninstall caj-apps
 ```
-AHAHAHAHA
